@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C0FF-3B51-42B8-BB34-A261D5D13A74}|..\\AdactinApp\\AdactinApp.csproj|c:\\users\\zmathantala\\source\\repos\\adactinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E059C0FF-3B51-42B8-BB34-A261D5D13A74}|..\\AdactinApp\\AdactinApp.csproj|c:\\users\\zmathantala\\source\\repos\\adactinapp\\adactinapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D74EFD-02F3-4D11-A047-F18239764932}|..\\BasicSelenium\\BasicSelenium.csproj|c:\\users\\zmathantala\\source\\repos\\basicselenium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D74EFD-02F3-4D11-A047-F18239764932}|..\\BasicSelenium\\BasicSelenium.csproj|c:\\users\\zmathantala\\source\\repos\\basicselenium\\basicselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|solutionrelative:base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\browsersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|solutionrelative:browsersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\testselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAF85162-435B-4BFE-8CF6-7A14CD058C03}|TestSelenium.csproj|solutionrelative:testselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdactinApp",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\AdactinApp\\AdactinApp.csproj",
+              "RelativeDocumentMoniker": "..\\AdactinApp\\AdactinApp.csproj",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\AdactinApp\\AdactinApp.csproj",
+              "RelativeToolTip": "..\\AdactinApp\\AdactinApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T05:32:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\AdactinApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AdactinApp\\Program.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\AdactinApp\\Program.cs",
+              "RelativeToolTip": "..\\AdactinApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:23:48.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrowserSetup.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\BrowserSetup.cs",
+              "RelativeDocumentMoniker": "BrowserSetup.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\BrowserSetup.cs",
+              "RelativeToolTip": "BrowserSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:20:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicSelenium.csproj",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\BasicSelenium\\BasicSelenium.csproj",
+              "RelativeDocumentMoniker": "..\\BasicSelenium\\BasicSelenium.csproj",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\BasicSelenium\\BasicSelenium.csproj",
+              "RelativeToolTip": "..\\BasicSelenium\\BasicSelenium.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T10:00:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\BasicSelenium\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BasicSelenium\\Program.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\BasicSelenium\\Program.cs",
+              "RelativeToolTip": "..\\BasicSelenium\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:52:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:21:12.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\Base.cs",
+              "RelativeDocumentMoniker": "Base.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\Base.cs",
+              "RelativeToolTip": "Base.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:22:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestSelenium.csproj",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\TestSelenium.csproj",
+              "RelativeDocumentMoniker": "TestSelenium.csproj",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\TestSelenium\\TestSelenium.csproj",
+              "RelativeToolTip": "TestSelenium.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T05:22:16.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
